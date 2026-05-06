@@ -1,6 +1,6 @@
 services:
   app:
-    image: Mariana200012/crud_estudiantes:latest
+    image: mariana200012/crud_estudiantes:latest
     ports:
       - "5010:5000"
     environment:
